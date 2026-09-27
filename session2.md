@@ -241,15 +241,15 @@ If you're a student and want to share your practice work:
 2. Add your design screenshots or notes inside a `/students/your-name/` folder
 3. Open a Pull Request with a short description of what you designed
 
-All contributions are welcome! Let's learn and grow together. 🌱
+All contributions are welcome! Let's learn and grow together.
 
 ---
 
 <div align="center">
 
 **Computer Society of Kirinyaga (CSK)**
-UI/UX Design Track · Session 2
-Facilitator: Morris
+UI/UX Design Track · Session 
+Facilitator: Morris muiruri
 
 *Designing the future, one frame at a time.*
 
