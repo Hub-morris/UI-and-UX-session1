@@ -1,15 +1,15 @@
-# CSK UI/UX Design Track — Session 2
+# CSK UI/UX Design Track — Session 1
 
 > **Computer Society of Kirinyaga (CSK)**
 > Facilitator: Morris | UI/UX Track Lead
 > Track: UI/UX Design
-> Session: 2 of the ongoing series
+> Session: 1 of the ongoing series
 
 ---
 
 ## Overview
 
-This repository documents the content, resources, and exercises covered during **Session 2** of the CSK UI/UX Design Track. The session built on foundational Figma skills introduced in Session 1 and dived deeper into visual design techniques used in modern, professional UI design.
+This repository documents the content, resources, and exercises covered during **Session 1** of the CSK UI/UX Design Track. The session built on foundational Figma skills introduced in Session 1 and dived deeper into visual design techniques used in modern, professional UI design.
 
 By the end of this session, students were able to:
 - Apply the glassmorphism (glass effect) technique in Figma
