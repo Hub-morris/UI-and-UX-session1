@@ -1,4 +1,4 @@
-# 🎨 CSK UI/UX Design Track — Session 2
+# CSK UI/UX Design Track — Session 2
 
 > **Computer Society of Kirinyaga (CSK)**
 > Facilitator: Morris | UI/UX Track Lead
@@ -7,7 +7,7 @@
 
 ---
 
-## 📌 Overview
+## Overview
 
 This repository documents the content, resources, and exercises covered during **Session 2** of the CSK UI/UX Design Track. The session built on foundational Figma skills introduced in Session 1 and dived deeper into visual design techniques used in modern, professional UI design.
 
@@ -20,7 +20,7 @@ By the end of this session, students were able to:
 
 ---
 
-## 🗂️ Table of Contents
+## Table of Contents
 
 - [Session Topics](#-session-topics)
   - [1. Glass Effect (Glassmorphism)](#1-glass-effect-glassmorphism)
@@ -36,7 +36,7 @@ By the end of this session, students were able to:
 
 ---
 
-## 📚 Session Topics
+## Session Topics
 
 ### 1. Glass Effect (Glassmorphism)
 
@@ -178,7 +178,7 @@ Beyond the main topics, we also touched on the following:
 
 ---
 
-## 🛠️ Tools & Resources
+## Tools & Resources
 
 | Resource | Link | Purpose |
 |---|---|---|
@@ -193,7 +193,7 @@ Beyond the main topics, we also touched on the following:
 
 ---
 
-## ✏️ Practice Exercises
+##  Practice Exercises
 
 Try these exercises on your own before the next session:
 
@@ -209,7 +209,7 @@ Try these exercises on your own before the next session:
 
 ---
 
-## 💡 Key Takeaways
+## Key Takeaways
 
 - Glassmorphism creates depth and modern aesthetics — use it deliberately
 - Icons should be consistent in style and size throughout a project
@@ -220,7 +220,7 @@ Try these exercises on your own before the next session:
 
 ---
 
-## 🔭 Next Session Preview
+##  Next Session Preview
 
 In **Session 3**, we will cover:
 - Introduction to Auto Layout in Figma
@@ -232,7 +232,7 @@ Make sure you have Figma open and your Session 2 practice exercises ready to rev
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 This repository is maintained by the **CSK UI/UX Design Track**.
 
